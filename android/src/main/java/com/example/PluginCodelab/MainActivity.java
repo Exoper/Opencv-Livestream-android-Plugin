@@ -111,16 +111,16 @@ public class MainActivity extends AppCompatActivity implements CameraBridgeViewB
         if (startCanny == true) {
 
             Imgproc.cvtColor(frame, frame, Imgproc.COLOR_RGBA2GRAY);
-            //Imgproc.Canny(frame, frame, 100, 80);
-            Imgproc.medianBlur(frame,frame,5);
+            Imgproc.Canny(frame, frame, 100, 80);
+            //Imgproc.medianBlur(frame,frame,5);
 
-            Imgproc.adaptiveThreshold(frame, edges, 125, Imgproc.ADAPTIVE_THRESH_MEAN_C,
-                    Imgproc.THRESH_BINARY, 11, 12);
-            Imgproc.bilateralFilter(frame, color, 15, 80, 80, Core.BORDER_DEFAULT);
+            //Imgproc.adaptiveThreshold(frame, edges, 125, Imgproc.ADAPTIVE_THRESH_MEAN_C,
+            //        Imgproc.THRESH_BINARY, 11, 12);
+            //Imgproc.bilateralFilter(frame, color, 15, 80, 80, Core.BORDER_DEFAULT);
 
             //Core.bitwise_and(frame,frame,edges);
             //Imgproc.bilateralFilter(frame,frame,15,80,80);
-            Core.bitwise_and(frame,frame,edges);
+            //Core.bitwise_and(frame,frame,edges);
             //Imgproc.threshold(color,test,212.0,255.0,Imgproc.THRESH_BINARY);
             return frame;
         }
