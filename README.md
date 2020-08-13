@@ -1,4 +1,4 @@
-# PluginCodelab
+# Opencv-Livestream-android-plugin
 
 A new flutter plugin project.
 
@@ -12,3 +12,7 @@ Android and/or iOS.
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+
+
+## Demo example app
+![Demo opencv on live stream](demo/demo.gif)
