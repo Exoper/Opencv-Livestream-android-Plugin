@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b21dbcd-e011-4c14-8762-b83c4c3d37ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="a0d2510a" />
+  <component name="ProjectId" id="1fu92KUqVn3g14K2c5j0ZngIckk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b21dbcd-e011-4c14-8762-b83c4c3d37ba" name="Default Changelist" comment="" />
+      <created>1597056902074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597056902074</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1597115553531">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1597115553531" />
+    <state x="808" y="429" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1597057773449">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="808" y="429" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597057773449" />
+    <state x="740" y="266" key="FileChooserDialogImpl" timestamp="1597281015397">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="266" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1597281015397" />
+    <state width="1860" height="292" key="GridCell.Tab.0.bottom" timestamp="1597331749386">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1597331749386" />
+    <state width="1860" height="292" key="GridCell.Tab.0.center" timestamp="1597331749386">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="292" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1597331749386" />
+    <state width="1860" height="292" key="GridCell.Tab.0.left" timestamp="1597331749386">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="292" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1597331749386" />
+    <state width="1860" height="292" key="GridCell.Tab.0.right" timestamp="1597331749386">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1860" height="292" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1597331749386" />
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1597273735613">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1597273735613" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1597139634217">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1597139634217" />
+  </component>
+</project>
